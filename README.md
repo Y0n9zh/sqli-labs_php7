@@ -1,0 +1,3 @@
+- 因为原版的 SQLi-Labs 不支持 PHP7 版本，本是想在 GitHub 上找一个的，找来找去没找到。
+- 好巧不巧，在隔壁 BitBucket 找到了，搬运一下。
+- 作者项目地址：https://bitbucket.org/SevenBy/xface_sqli_labs/src/master/
